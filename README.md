@@ -1,1 +1,1 @@
-# University-Class
+# University Class

@@ -9,6 +9,6 @@
 
 ★ [컴퓨터 비젼](https://github.com/hiisk/University-Class/tree/main/Computer_Vision)
 
-★ [빅 데이터분석을 위한 파이썬 프로그래밍 기초](https://github.com/hiisk/University-Class/tree/main/Python_Programming_Foundation_for_Big_Data_Analysis)
+★ [빅데이터 분석을 위한 파이썬 프로그래밍 기초](https://github.com/hiisk/University-Class/tree/main/Python_Programming_Foundation_for_Big_Data_Analysis)
 
 ★ [고급 파이썬 프로그래밍](https://github.com/hiisk/University-Class/tree/main/Advanced_Python_Programming)
